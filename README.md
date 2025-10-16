@@ -27,7 +27,7 @@
 ## 💡 About Me
 
 <div align="center">
-Hi, I’m <strong>Hypurr XBT2</strong> — a code artisan, tech explorer, and lifelong learner.<br/>
+Hi, I’m <strong>HypurrXBT</strong> — a code artisan, tech explorer, and lifelong learner.<br/>
 I turn ☕ into code, bugs into features, and ideas into reality.<br/>
 <em>Always chasing that next “aha!” moment in tech.</em>
 </div>
@@ -109,20 +109,20 @@ I turn ☕ into code, bugs into features, and ideas into reality.<br/>
 ## 📊 My GitHub in Numbers
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hypurr XBT2&show_icons=true&theme=dracula&hide_border=true&title_color=FF1493&text_color=00BFFF&icon_color=9400D3" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hypurr XBT2&layout=compact&theme=dracula&hide_border=true&title_color=FF1493&text_color=00BFFF&icon_color=9400D3" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HypurrXBT&show_icons=true&theme=dracula&hide_border=true&title_color=FF1493&text_color=00BFFF&icon_color=9400D3" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HypurrXBT&layout=compact&theme=dracula&hide_border=true&title_color=FF1493&text_color=00BFFF&icon_color=9400D3" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hypurr XBT2&theme=dracula&hide_border=true&currstreak_color=FF1493&ring_color=00BFFF&side_colors=9400D3,9400D3" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HypurrXBT&theme=dracula&hide_border=true&currstreak_color=FF1493&ring_color=00BFFF&side_colors=9400D3,9400D3" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hypurr XBT2&theme=dracula&title_color=FF1493&text_color=00BFFF&icon_color=9400D3" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HypurrXBT&theme=dracula&title_color=FF1493&text_color=00BFFF&icon_color=9400D3" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/Hypurr XBT2?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=FF1493&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/HypurrXBT?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=FF1493&style=for-the-badge"/>
 </div>
 
 <p align="center">
