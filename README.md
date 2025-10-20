@@ -106,7 +106,7 @@ I turn ☕ into code, bugs into features, and ideas into reality.<br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9400D3,50:FF1493,100:00BFFF&height=40&section=header" width="100%" />
 </p>
 
-## 📊 My GitHub in Numbers
+## 📊 My GitHub in Numbers:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HypurrXBT&show_icons=true&theme=dracula&hide_border=true&title_color=FF1493&text_color=00BFFF&icon_color=9400D3" height="165"/>
